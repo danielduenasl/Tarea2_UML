@@ -1,0 +1,10 @@
+com\mycompany\equipo_de_futbol\TeamInterface.class
+com\mycompany\equipo_de_futbol\Equipo_de_Futbol.class
+com\mycompany\equipo_de_futbol\Person.class
+com\mycompany\equipo_de_futbol\FootballTeam.class
+com\mycompany\equipo_de_futbol\Forward.class
+com\mycompany\equipo_de_futbol\PlayerInterface.class
+com\mycompany\equipo_de_futbol\Player.class
+com\mycompany\equipo_de_futbol\Defense.class
+com\mycompany\equipo_de_futbol\Midfielder.class
+com\mycompany\equipo_de_futbol\Goalkeeper.class
